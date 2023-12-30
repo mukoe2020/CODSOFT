@@ -1,6 +1,6 @@
 # codsoft
 
-this a repo fpr my CODSORT internship  l have used python in all my programs
+this a repo for my CODSOFT internship  l have used python in all my programs
 
 1 - l have contact book program in command line interface  the user is able to :
   - add contact with a name,phone number ,email address and also option to add address
@@ -26,11 +26,10 @@ this a repo fpr my CODSORT internship  l have used python in all my programs
 
  4 - lastly the to do list this one i wrote in my favourate command line interface :
    - the programme displays a menu to add :
-     1 - task
-     2 - display task
-     3 - mark when a task is completed
-    - the user is able to interact with interface   
-  - 
+   - task
+   - display task
+   - mark when a task is completed
+    - the user is able to interact with interface      
   
 
  
